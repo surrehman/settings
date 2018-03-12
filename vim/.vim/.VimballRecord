@@ -1,0 +1,5 @@
+Align.vba: call delete('/users/surrehma/.vim/plugin/AlignPlugin.vim')|call delete('/users/surrehma/.vim/plugin/AlignMapsPlugin.vim')|call delete('/users/surrehma/.vim/plugin/cecutil.vim')|call delete('/users/surrehma/.vim/doc/Align.txt')|call delete('/users/surrehma/.vim/autoload/Align.vim')|call delete('/users/surrehma/.vim/autoload/AlignMaps.vim')
+LargeFile.vba: call delete('/users/surrehma/.vim/plugin/LargeFile.vim')|call delete('/users/surrehma/.vim/doc/LargeFile.txt')
+hints_man3.vba: call delete('/users/surrehma/.vim/ftplugin/c/hints_man3.vim')
+texmenu.vba: call delete('/users/surrehma/.vim/ftplugin/tex/texmenu.vim')
+Rainbow.vba: call delete('/users/surrehma/.vim/plugin/RainbowPlugin.vim')|call delete('/users/surrehma/.vim/autoload/Rainbow.vim')|call delete('/users/surrehma/.vim/after/syntax/c/rainbow.vvim')
